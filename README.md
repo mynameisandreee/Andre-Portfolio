@@ -14,3 +14,6 @@ it is just time consuming speacilly that I have very limited time to spend on th
 # GOAL 
 my goal for this project is to use this portfolio to showcase to future employer what I have than and what I am capable of doing 
 I also want to show that I am keep on learning new stuff because I will not stop here and keep improving my portfolio down in the future
+
+### Deployed link 
+https://mynameisandreee.github.io/Andre-Portfolio/
