@@ -17,3 +17,8 @@ I also want to show that I am keep on learning new stuff because I will not stop
 
 ### Deployed link 
 https://mynameisandreee.github.io/Andre-Portfolio/
+
+
+I use this reference so I that I don't have to spend so much time on my portfolio. I wanted to focus more on my projects that I would be able to showcase to future employer. Having a computer science degree helps me to make projects. I am aiming to apply in the next months that is why I do not want to spend too much time on spending on this website portfolio
+### Reference
+https://github.com/Ade-mir/html-css-js-portfolio-tutorial-2
